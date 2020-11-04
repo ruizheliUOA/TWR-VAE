@@ -1,6 +1,6 @@
 # Improving Variational Autoencoder for Text Modelling withTimestep-Wise Regularisation
 
-This repository includes the source code to reproduce the results presented in the paper [Improving Variational Autoencoder for Text Modelling withTimestep-Wise Regularisation](https://arxiv.org/pdf/2011.01136.pdf) (COLING 2020)
+This repository includes the source code to reproduce the results presented in the paper [Improving Variational Autoencoder for Text Modelling with Timestep-Wise Regularisation](https://arxiv.org/pdf/2011.01136.pdf) (COLING 2020)
 
 
 ## Contents
@@ -61,7 +61,9 @@ python train_dailydial.py
 ```
 
 ## Acknowledgements
-Thanks for the code published on Github repositories: https://github.com/fangleai/Implicit-LVM
+Thanks for the code published on Github repositories:
+- https://github.com/guxd/DialogWAE
+- https://github.com/fangleai/Implicit-LVM
 
 ```
 @inproceedings{Li_TWRVAE_2020,
