@@ -43,8 +43,9 @@ python main.py -dt ptb/yelp/yahoo --z_type normal -par --partial_type last25/las
 
 ## 2. Dialogue response generation
 
-### 2.1 Dialogue response generation on Switchboard
 Use pre-trained Word2vec: download Glove word embeddings `glove.twitter.27B.200d.txt` from https://nlp.stanford.edu/projects/glove/ and save it to the `./data` folder. The default setting use 200 dimension word embedding trained on Twitter.
+
+### 2.1 Dialogue response generation on Switchboard
 
 To train TWR-VAE on Switchboard
 ```
